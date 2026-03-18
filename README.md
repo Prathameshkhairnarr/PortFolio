@@ -1,14 +1,43 @@
-# My Portfolio Wesbite - Overview 🚀
+# Prathamesh Khairnar - Portfolio 🚀
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+Welcome to the open-source repository of my personal portfolio website! I am a **Full Stack Developer** and **Software Engineer** passionate about building highly interactive, scalable, and beautifully animated web applications.
 
-## Instructions 🛠️
+Check out the live version: [Portfolio Live Link](https://portfolio.vercel.app/) *(Note: Update this with your actual Vercel domain)*
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+## 🛠️ Tech Stack
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+This project was built with modern web development tools to deliver a smooth and engaging user experience:
 
-## License
+- **Frontend:** React, TypeScript, HTML5, CSS3
+- **Animations:** GSAP (ScrollSmoother, ScrollTrigger, SplitText)
+- **3D Graphics:** Three.js, React Three Fiber, WebGL
+- **Build Tool:** Vite
 
-This project is open source and available under the [MIT License](LICENSE).
+## 💻 Local Setup & Installation
+
+If you'd like to run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Prathameshkhairnarr/PortFolio.git
+   cd PortFolio
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production:**
+   ```bash
+   npm run build
+   ```
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE). Feel free to use it for inspiration or learning!

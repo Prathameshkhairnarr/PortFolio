@@ -2,7 +2,7 @@
 
 Welcome to the open-source repository of my personal portfolio website! I am a **Full Stack Developer** and **Software Engineer** passionate about building highly interactive, scalable, and beautifully animated web applications.
 
-Check out the live version: [Portfolio Live Link](https://portfolio.vercel.app/) *(Note: Update this with your actual Vercel domain)*
+
 
 ## 🛠️ Tech Stack
 
